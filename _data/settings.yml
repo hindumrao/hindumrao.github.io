@@ -18,14 +18,10 @@ menu__settings:
       url: '/writing/'
     - title: 'Creative'
       url: '/creative/'
-    - title: 'Pages'
-      submenu:
-      - url: '/about/'
-        title: 'About'
-      - url: '/contact/'
-        title: 'Contact'
-      - url: '/elements/'
-        title: 'Elements'
+    - title: 'About'
+      url: '/creative/'
+    - url: '/contact/'
+      title: 'Contact'
 
 
 #-------------------------------
