@@ -12,10 +12,12 @@ menu__settings:
   menu__items:
     - title: 'Home'
       url: '/'
-    - title: 'Projects'
-      url: '/projects/'
-    - title: 'Blog'
-      url: '/blog/'
+    - title: 'Research'
+      url: '/research/'
+    - title: 'Writing'
+      url: '/writing/'
+    - title: 'Creative'
+      url: '/creative/'
     - title: 'Pages'
       submenu:
       - url: '/about/'
@@ -33,11 +35,7 @@ author:
   author__bio: Hi! I'm Hindu Rao, a pharmacist and professor. 
 
 social:
-- {icon: "ion-logo-twitter", link: "https://twitter.com"}
-- {icon: "ion-logo-facebook", link: "https://facebook.com"}
-- {icon: "ion-logo-instagram", link: "https://instagram.com"}
-- {icon: "ion-logo-pinterest", link: "https://pinterest.com"}
-- {icon: "ion-logo-github", link: "https://github.com"}
+- {icon: "ion-logo-linkedin", link: "https://www.linkedin.com/in/hindu-rao-921214149/"}
 
 # Example of adding a new link to the footer - {icon: "ion-logo-dribbble", link: "https://dribbble.com"}
 # Other icons can be found at https://ionicons.com/v4/
@@ -53,7 +51,7 @@ hero:
 
 #-------------------------------
 # Newsletter
-mailchimp: enable # To enable the mailchimp form, use the value 'enable'. To disable the form, leave the field blank.
+mailchimp: disabled # To enable the mailchimp form, use the value 'enable'. To disable the form, leave the field blank.
 mailchimp__identifier: frnla.us6.list-manage.com/subscribe/post?u=6314d69a3f315af7ce3fb00a0&amp;id=3038727cc3 # Add your MailChimp form identifier. For example - frnla.us6.list-manage.com/subscribe/post?u=6314d69a3f315af7ce3fb00a0&amp;id=3038727cc3
 mailchimp__input__text: Your email address...
 mailchimp__button__text: Get updates
@@ -64,6 +62,14 @@ mailchimp__button__text: Get updates
 projects__settings:
   projects__title: Latest works
   projects__description: I shows only the best websites and portfolios built completely with passion, simplicity & creativity!
+
+
+#-------------------------------
+# Research Settings
+research__settings:
+  research__title: Some of my latest research
+  research__description: A sample of my work in the field of ambulatory care and diabetes management.
+
 
 
 #-------------------------------

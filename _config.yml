@@ -28,6 +28,10 @@ collections:
   projects:
     output: true
     permalink: /project/:slug
+  research:
+    output: true
+    permalink: /research/:slug
+
 
 # Pages Path
 defaults:
@@ -50,6 +54,11 @@ defaults:
       type: "projects"
     values:
       layout: "project"
+  - scope:
+      path: ""
+      type: "research"
+    values:
+      layout: "research"
 
 sass:
   sass_dir: _sass
