@@ -31,7 +31,6 @@ menu__settings:
 author:
   author__name: Hindu Rao
   author__bio: Hi! I'm Hindu Rao, a pharmacist and professor. 
-  author__avatar: '/images/01-1.jpg'
 
 social:
 - {icon: "ion-logo-twitter", link: "https://twitter.com"}
