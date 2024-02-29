@@ -41,7 +41,7 @@ social:
 # Hero Settings
 hero:
   hero__title: Hi! I'm Hindu Rao, a pharmacist and professor.
-  hero__description: My skillset is in ambulatory care, helping patients care for their diabetes and hypertension. I also teach pharmacy students at the Chapman University. In my spare time, I create children's book inspired by the best dog in the world. 
+  hero__description: My expertise is in ambulatory care, helping patients care for their diabetes and hypertension. I also teach pharmacy students at the Chapman University. In my spare time, I create children's book inspired by the best dog in the world. 
   hero__image: '/images/hero_image.jpg'
 
 
