@@ -17,11 +17,11 @@ menu__settings:
     - title: 'Writing'
       url: '/writing/'
     - title: 'Creative'
-      url: '/creative/'
+      url: '/projects/'
     - title: 'About'
-      url: '/creative/'
-    - url: '/contact/'
-      title: 'Contact'
+      url: '/about/'
+    - title: 'Contact'
+      url: '/contact/'
 
 
 #-------------------------------
