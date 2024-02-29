@@ -14,8 +14,6 @@ menu__settings:
       url: '/'
     - title: 'Research'
       url: '/research/'
-    - title: 'Writing'
-      url: '/writing/'
     - title: 'Creative'
       url: '/projects/'
     - title: 'About'
