@@ -16,6 +16,8 @@ menu__settings:
       url: '/research/'
     - title: 'Creative'
       url: '/projects/'
+    - title: 'CV'
+      url: '/cv/'
     - title: 'Contact'
       url: '/contact/'
 
