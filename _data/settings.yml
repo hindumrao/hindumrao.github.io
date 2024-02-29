@@ -59,6 +59,27 @@ projects__settings:
   projects__title: Latest works
   projects__description: I shows only the best websites and portfolios built completely with passion, simplicity & creativity!
 
+  project__items:
+    - title: "Simba's First Holi"
+      description: "A children's book about a dog's first Holi"
+      image: '/images/simba_holi_cover.jpg'
+      url: 'https://www.amazon.com/Simbas-First-Holi-Holiday-Adventures/dp/B0CVTH8B54'
+
+    - title: "Simba's First Diwali"
+      description: "A children's book about a dog's first Diwali"
+      image: '/images/simba_diwali_cover.jpg'
+      url: 'https://www.amazon.com/Simbas-First-Diwali-Holiday-Adventures/dp/B0CJXGL751'
+
+    - title: "Simba's First Christmas"
+      description: "A children's book about a dog's first Christmas"
+      image: '/images/simba_christmas_cover.jpg'
+      url: 'https://www.amazon.com/Simbas-First-Christmas-Holiday-Adventures/dp/B0CP2KN7X9'
+
+    - title: 'Adventures of Simba Coloring Book'
+      description: 'A coloring book for children to enjoy the adventures of Simba'
+      image: '/images/simba_coloring_book_cover.jpg'
+      url: 'https://www.amazon.com/Adventures-Simba-Coloring-Book-Terrier/dp/B0CHL1C9KM'
+
 
 #-------------------------------
 # Research Settings
