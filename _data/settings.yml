@@ -120,6 +120,8 @@ footer_menu__settings:
       url: '/research/'
     - title: 'Creative'
       url: '/projects/'
+    - title: 'CV'
+      url: '/cv/'
     - url: '/contact/'
       title: 'Contact'
 
