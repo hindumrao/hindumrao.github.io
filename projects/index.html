@@ -1,16 +1,35 @@
 ---
 layout: default
-title: Some creative projects
-description: My best friend is my brother's Norfolk Terrier, Simba. My latest obsession is writing children's book with him as the protagonist!
 ---
 <div class="container">
+
+  <!-- begin hero -->
+  <section class="hero">
+    <div class="container">
+      <div class="row">
+        <div class="col col-12">
+          <div class="hero__inner">
+
+            <div class="hero__left">
+              <div class="hero__image">
+                <img class="lazy" data-src="{{ site.data.settings.projects__settings.hero__image }}" alt="{{site.data.settings.author.author__name}}'s Picture">
+              </div>
+            </div>
+
+            <div class="hero__right">
+              <h1 class="hero__title">{{ site.data.settings.projects__settings.projects__title }}</h1>
+              <p class="hero__description">{{ site.data.settings.projects__settings.projects__description }}</p>
+            </div>
+
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+  <!-- end hero -->
+
   <div class="page-head">
-    <h1 class="page-title">{% if page.title %}{{ page.title }}{% else %}{{ site.data.settings.projects__settings.projects__title }}{% endif %}</h1>
-    {% if page.description %}
-      <p class="page-description">{{ page.description }}</p>
-    {% else site.data.settings.projects__settings.projects__description %}
-      <p class="page-description">{{ site.data.settings.projects__settings.projects__description }}</p>
-    {% endif %}
+    <hr />
   </div>
 </div>
 

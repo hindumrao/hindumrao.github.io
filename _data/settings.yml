@@ -54,8 +54,11 @@ mailchimp__button__text: Get updates
 #-------------------------------
 # Projects Settings
 projects__settings:
-  projects__title: Latest works
-  projects__description: I shows only the best websites and portfolios built completely with passion, simplicity & creativity!
+  hero__image: '/images/hindu_simby.jpg'
+  projects__title: Some Creative Projects
+  projects__description: My best friend is my brother's Norfolk Terrier, Simba. My latest obsession is writing children's book with him as the protagonist!
+
+
 
   project__items:
     - title: "Simba's First Holi"
@@ -83,7 +86,8 @@ projects__settings:
 # Research Settings
 research__settings:
   research__title: Some of my latest research
-  research__description: A sample of my work in the field of ambulatory care and diabetes management.
+  research__description: These publications highlight the research I’ve done in diabetes management, cardiology, population health, and pharmacy education
+
 
 
 
