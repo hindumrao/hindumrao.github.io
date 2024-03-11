@@ -1,7 +1,7 @@
 ---
 title: The Use of Continuous Glucose Monitoring in Older People With Type 2 Diabetes 
 date: 2021-11-01 
-image: '/images/heart.jpg'
+image: '/images/continuous_glucose.jpg'
 ---
 
 # Abstract

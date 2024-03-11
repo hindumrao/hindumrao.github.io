@@ -1,7 +1,7 @@
 ---
 title: Comparison of Virtual Simulations with Peers versus Actors as Standardized Patients on Virtual OSCE Scores
 date: 2023-02-20 
-image: '/images/heart.jpg'
+image: '/images/comparison_of_virtual.jpg'
 ---
 
 # Abstract 

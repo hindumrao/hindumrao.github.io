@@ -1,7 +1,7 @@
 ---
 title: Antiplatelet Therapy in Older Patients Post-Myocardial Infarction 
 date: 2022-01-01 
-image: '/images/heart.jpg'
+image: '/images/antiplatelet_therapy.jpg'
 ---
 
 # Abstract 

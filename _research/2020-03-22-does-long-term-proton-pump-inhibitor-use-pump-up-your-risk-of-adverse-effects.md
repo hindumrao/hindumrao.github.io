@@ -1,7 +1,7 @@
 ---
-title: Antithrombotic Therapy in Patients With Valvular Heart Disease 
+title: Does Long-term Proton Pump Inhibitor Use Pum Up Your Risk Of Adverse Effects? 
 date: 2020-03-22 
-image: '/images/heart.jpg'
+image: '/images/proton_inhibitor.jpg'
 ---
 
 # The Problem

@@ -1,7 +1,7 @@
 ---
 title: Effects of GLP-1 receptor agonists on cardiovascular outcomes in patients with type 2 diabetes and chronic kidney disease- A systematic review and meta-analysis
 date: 2022-10-22 
-image: '/images/heart.jpg'
+image: '/images/effects_of_glp1.jpg'
 ---
 
 # Abstract 

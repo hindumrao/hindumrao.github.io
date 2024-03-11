@@ -2,7 +2,7 @@
 title: Pharmacy student involvement in population health management of statin quality measures
 
 date: 2023-02-24 
-image: '/images/heart.jpg'
+image: '/images/pharmacy_student_involvement_image.jpeg'
 ---
 
 # Abstract 

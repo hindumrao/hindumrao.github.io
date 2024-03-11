@@ -1,7 +1,7 @@
 ---
 title: Antithrombotic Therapy in Patients With Valvular Heart Disease 
 date: 2021-02-12 
-image: '/images/heart.jpg'
+image: '/images/antithrombotic_therapy.jpg'
 ---
 
 # Abstract
