@@ -1,5 +1,5 @@
 ---
-title: Pharmacy student involvement in population health management of statin quality measures
+title: Pharmacy Student Involvement In Population Health Management Of Statin Quality Measures
 
 date: 2023-02-24 
 image: '/images/pharmacy_student_involvement_image.jpeg'

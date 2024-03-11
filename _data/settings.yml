@@ -39,7 +39,7 @@ social:
 # Hero Settings
 hero:
   hero__title: Hi! I'm Hindu, a professor and pharmacist.
-  hero__description: As an ambulatory care pharmacist, I take care of patients with chronic conditions. My expertise is managing diabetes and high blood pressure. As a professor, I teach pharmacy students at Chapman University about the fundamentals of becoming a pharmacist. In my spare time, I like to write health information articles and create children's book inspired by the best dog in the world.
+  hero__description: As an ambulatory care pharmacist, I take care of patients with chronic conditions. My expertise is managing diabetes and high blood pressure. As a professor, I teach pharmacy students at Chapman University about the fundamentals of becoming a pharmacist. In my spare time, I write health information articles for GoodRx and create children's books inspired by the best dog in the world.
   hero__image: '/images/hero_image.jpg'
 
 
@@ -87,7 +87,7 @@ projects__settings:
 # Research Settings
 research__settings:
   research__title: Some of my latest research
-  research__description: These publications highlight the research I’ve done in diabetes management, cardiology, population health, and pharmacy education
+  research__description: These publications highlight the research I’ve done in diabetes, cardiology, population health, and pharmacy education.
 
 
 

@@ -1,5 +1,5 @@
 ---
-title: Does Long-term Proton Pump Inhibitor Use Pum Up Your Risk Of Adverse Effects? 
+title: Does Long-term Proton Pump Inhibitor Use Pump Up Your Risk Of Adverse Effects? 
 date: 2020-03-22 
 image: '/images/proton_inhibitor.jpg'
 ---
