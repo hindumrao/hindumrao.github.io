@@ -135,7 +135,7 @@ footer_menu__settings:
 # Contact Settings
 contact:
   email: hrao@chapman.edu # Add your form_id
-  description: Please reach out to me with any questions or comments. I will get back to you as soon as possible.
+  description: I love hearing from anyone interested in healthcare- whether you're a patient, student, or fellow healthcare professional. Feel free to reach out to me with any questions or comments. I'll get back to you as soon as I can.
 
 # NOTE
 # Hilton theme comes with a contact form built-in. You can use this form with Formspree (https://formspree.io/) service and get up to 50 submissions for free. Also, you can easily switch to another service if you want.
