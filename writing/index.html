@@ -18,12 +18,19 @@ description: I write health information articles for GoodRx. Here are some of my
   <div class="row">
     {% for writing in site.data.settings.writing__settings.articles %}
       <article class="project col col-4 col-d-6 col-t-12">
+        <a href="{{ writing.url }}" target="_blank">
 
-        <div class="card">
-          <div class="card-body">
-            <p><a href="{{ writing.url }}" target="_blank">{{writing.title}}</a></p>
+          <div class="card">
+              <div class="card-body">
+                <p>
+                  {{writing.title}}
+                  <br/>
+                  <small><i>{{writing.date}}</i></small>
+                </p>
+
+              </div>
           </div>
-        </div>
+        </a>
       </article>
     {% endfor %}
   </div>

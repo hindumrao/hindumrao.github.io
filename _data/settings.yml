@@ -19,7 +19,7 @@ menu__settings:
     - title: 'Writing'
       url: '/writing/'
     - title: 'CV'
-      url: '/cv/'
+      url: '/assets/2024-02-29-cv.pdf'
     - title: 'Contact'
       url: '/contact/'
 

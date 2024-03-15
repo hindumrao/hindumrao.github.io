@@ -247,3 +247,28 @@ table td {
 .container {
   padding: 4px 16px;
 }
+
+.card {
+  background: #FAFAFA;
+  border-radius: 1rem;
+  box-shadow: 0 0 5px #0000001c;
+  padding: 2em;
+}
+.card-title {
+  font: 1.2em "Fira Sans", sans-serif;
+}
+.card-content {
+  font: 1em "Fira Sans", sans-serif;
+}
+
+/* Overlay example */
+.card {
+  position: relative;
+}
+.card > a {
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
