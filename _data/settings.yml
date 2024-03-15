@@ -88,7 +88,7 @@ projects__settings:
 #-------------------------------
 # Research Settings
 research__settings:
-  research__title: Some of my latest research
+  research__title: My latest research
   research__description: These publications highlight the research I’ve done in diabetes, cardiology, population health, and pharmacy education.
 
 
