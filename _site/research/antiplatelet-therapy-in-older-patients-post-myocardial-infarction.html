@@ -41,10 +41,8 @@ This case study reviews appropriate antiplatelet treatment options for an older 
 
   <script>
     
-    if (localStorage.getItem("theme") === "dark") {
-      document.documentElement.setAttribute("dark", "");
-      document.documentElement.classList.add('dark-mode');
-    }
+      document.documentElement.setAttribute("light", "");
+      document.documentElement.classList.add('light-mode');
     
   </script>
 
@@ -127,9 +125,8 @@ This case study reviews appropriate antiplatelet treatment options for an older 
           <i class="nav__icon icon__menu ion ion-md-menu"></i>
 
           
-          <div class="toggle-theme toggle-theme-js">
-            <div class="toggle-moon" title="Enable dark mode"><i class="ion ion-ios-moon"></i></div>
-            <div class="toggle-sun" title="Enable light mode"><i class="ion ion-ios-sunny"></i></div>
+          <div class="toggle-theme theme-light">
+            <div class="toggle-sun" title="Light mode"><i class="ion ion-ios-sunny"></i></div>
           </div>
           
         </div>
