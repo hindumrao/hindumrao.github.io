@@ -23,6 +23,22 @@ menu__settings:
     - title: 'Contact'
       url: '/contact/'
 
+#-------------------------------
+# Footer Navigation Settings
+footer_menu__settings:
+  menu__items:
+    - title: 'Home'
+      url: '/'
+    - title: 'Research'
+      url: '/research/'
+    - title: 'Creative'
+      url: '/projects/'
+    - title: 'Writing'
+      url: '/writing/'
+    - title: 'CV'
+      url: '/assets/2024-02-29-cv.pdf'
+    - url: '/contact/'
+      title: 'Contact'
 
 #-------------------------------
 # Author Settings
@@ -326,22 +342,6 @@ writing__settings:
 blog__settings:
   blog__title: Recent Posts
   blog__description:
-
-#-------------------------------
-# Footer Navigation Settings
-footer_menu__settings:
-  menu__items:
-    - title: 'Home'
-      url: '/'
-    - title: 'Research'
-      url: '/research/'
-    - title: 'Creative'
-      url: '/projects/'
-    - title: 'CV'
-      url: '/cv/'
-    - url: '/contact/'
-      title: 'Contact'
-
 
 #-------------------------------
 # Contact Settings
